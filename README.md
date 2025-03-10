@@ -1,4 +1,4 @@
-# Easy steps
+# Steps to run the chatbot
 ### open the .ipynb file in colab
 ### Upload the adaboost.pkl file in colab
 ### Run the cells
